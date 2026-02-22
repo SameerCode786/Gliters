@@ -8,6 +8,7 @@ import About from "./components/About";
 import ProductSlider from "./components/ProductSlider";
 import Testimonials from "./components/Testimonials";
 import InstagramFeed from "./components/InstagramFeed";
+import Process from "./components/Process";
 import Newsletter from "./components/Newsletter";
 import Footer from "./components/Footer";
 
@@ -47,6 +48,7 @@ export default function App() {
         <ProductSlider />
         <Testimonials />
         <InstagramFeed />
+        <Process />
         <Newsletter />
       </main>
       <Footer />
